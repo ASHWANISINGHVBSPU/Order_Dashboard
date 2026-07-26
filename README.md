@@ -1,28 +1,6 @@
 # Order_Dashboard
 
 ## 📌 Project Overview
-Is project mein maine order data ka use karke ek complete analysis aur interactive dashboard taiyar kiya hai. Data ko summarize karne ke liye Excel aur Pivot Tables ka upyog kiya gaya hai.
-
-## 📂 Repository Structure
-* *Excel Sheet.xlsx:* Is file mein main raw data, data cleaning, aur lagaye gaye formulas hain.
-* *Order_Pivot Table.xlsx:* Is file mein main pivot tables, summary data aur interactive charts hain.
-
-## 📈 Key Insights & Features
-* *Order Summary:* Total sales aur order counts ka quick overview.
-* *Pivot Tables:* Data ko region, category, ya date ke hisaab se filter karne ke liye.
-* *Visual Charts:* Trends ko aasaani se samajhne ke liye graphical reports.
-
-## 🚀 How to Use
-1. Is repository se dono .xlsx files ko download karein.
-2. Microsoft Excel mein open karke dashboard aur pivot filters ko interactively check karein.
-3.
-[1:54 PM, 7/26/2026] KD (IT): # Order Dashboard 📊
-
-An end-to-end data analysis project that transforms raw order data into actionable business insights using Microsoft Excel, structured Pivot Tables, and interactive data visualization.
-
----
-
-## 📌 Project Overview
 The objective of this project is to analyze sales performance, track key order metrics, and identify regional or category-wise trends. By leveraging Excel formulas and Pivot Tables, raw data is processed into a dynamic dashboard for data-driven decision-making.
 
 ## 📂 Repository Structure
